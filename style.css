@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+#ipp {
+    color: darkblue;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: aliceblue;
+}
+
+#cheat {
+    color: darkgreen;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#gamey {
+    color: darkred;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#myCarousel {
+    background-color: red;
+}
+
+#myCarousel img 
+{ 
+    height: 300px;
+    margin-top: 35px; 
+} 
+
+.carousel-inner p {
+     margin-top: 15px; 
+     color : white; 
+     font-size: 20px; 
+    }
